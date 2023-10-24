@@ -1,0 +1,7 @@
+﻿  Calculator.cpp
+D:\Program Files (x86)\Visual Studio 2022\source\repos\Calculator\Calculator.cpp(43,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Program Files (x86)\Visual Studio 2022\source\repos\Calculator\Calculator.cpp(44,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Program Files (x86)\Visual Studio 2022\source\repos\Calculator\Calculator.cpp(48,39): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\Program Files (x86)\Visual Studio 2022\source\repos\Calculator\Calculator.cpp(179): warning C4715: 'Stack::IsSymbol': not all control paths return a value
+D:\Program Files (x86)\Visual Studio 2022\source\repos\Calculator\Calculator.cpp(99): warning C4715: 'Stack::CheckInput': not all control paths return a value
+  Calculator.vcxproj -> D:\Program Files (x86)\Visual Studio 2022\source\repos\Calculator\x64\Debug\Calculator.exe
